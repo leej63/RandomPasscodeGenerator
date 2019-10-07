@@ -1,0 +1,11 @@
+.string_box{
+    border: solid 2px black;
+}
+
+.generator{
+    margin-top: 20%;
+}
+
+p{
+    font-size: 30px;
+}
